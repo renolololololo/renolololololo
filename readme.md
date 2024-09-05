@@ -4,8 +4,8 @@ Welcome to my profile, it basically serves for me as a porftolio
 
 ## 📫 Contact
 
-<img src="https://skillicons.dev/icons?i=gmail"/> - leonw.aram@gmail.com <br>
-<img src="https://skillicons.dev/icons?i=discord"/> - renolololololo
+Discord - renolololololo <br>
+Email - leonw.aram@gmail.com
 
 <h2 align="center">My Skills</h2>
 <br/>
