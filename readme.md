@@ -8,17 +8,17 @@
 
 <br/>
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:leonw.aram@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">My Skills</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=lua,js,html,css,sql,cpp,blender,git,mysql"/>
+    <img src="https://skillicons.dev/icons?i=lua,js,html,css,cpp,blender,git,mysql"/>
 </div>
 
 <br/>
