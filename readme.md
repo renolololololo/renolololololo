@@ -2,10 +2,10 @@
 
 Welcome to my profile, it basically serves for me as a porftolio
 
-## 📫 Contact Me on Social Media
+## 📫 Contact
 
-email - leonw.aram@gmail.com
-discord - renolololololo
+<img src="https://skillicons.dev/icons?i=lua,js,html,css,cpp,blender,git,mysql"/> - leonw.aram@gmail.com <br>
+<img src="https://skillicons.dev/icons?i=lua,js,html,css,cpp,blender,git,mysql"/> - renolololololo
 
 <h2 align="center">My Skills</h2>
 <br/>
